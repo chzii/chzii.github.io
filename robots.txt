@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://chzii.github.io/RlT/sitemap.RlT.gz
